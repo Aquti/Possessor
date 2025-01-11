@@ -8,4 +8,4 @@ if not key then
     key.Parent = ReplicatedStorage
 end
 
-key.value = "	4;	7"
+key.value = "ENtix_uPoEjtdpseGpsJttvft"
